@@ -1,5 +1,8 @@
 # My Portfolio
+## Description
 This is used to describe my backgound and my current interests.
+## Setup instructions
+Click button used to access more information about the file.
 ## Technology Used
 HTML
 CSS

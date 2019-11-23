@@ -1,3 +1,39 @@
-body{
+ body{
     background-image: url("https://bit.ly/2rkF65T")
 }
+nav{
+    position: fixed;
+    background-color: lightcyan;
+    width: 100%;
+    padding: 10px;
+}
+nav ul{
+    text-align: right;
+}
+nav ul li{
+    display: inline;
+    padding: 100px;
+    font-style: italic;
+    font-size: 25px;
+}
+/* .work{
+    font-family: fantasy;
+    font-size: 25px;
+    padding: 10px;
+    margin-left: 6%;
+ }
+ .work>form>img{
+    padding-left: 10px;
+    
+} 
+.tropical {
+    list-style: none;
+    overflow: hidden;
+    object-fit: cover;
+    
+}
+.tropical>ul{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    justify-content: space-evenly;  */
