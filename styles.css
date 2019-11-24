@@ -9,11 +9,11 @@ nav{
     padding: 10px;
 }
 nav ul{
-    text-align: right;
+    text-align: center;
 }
 nav ul li{
     display: inline;
-    padding: 100px;
+    padding: 50px;
     font-style: italic;
     font-size: 25px;
 }
@@ -46,6 +46,9 @@ footer{
     background-color: lightcyan;
     width: 100%;
 }
+.contacts p{
+    color: darkblue;
+}
 p{
     font-size: 25px;
     font-style: italic;
@@ -74,3 +77,56 @@ h3{
 img{
     border-radius: 40%;
 }
+/* @media screen and (min-width: 480px) {
+    body {
+        text-align: center;
+    }
+    img{
+        border-radius: 40%;
+    }
+    p{
+        text-align: center;
+        overflow: hidden;
+    }
+    nav{
+        position: fixed;
+        background-color:lightcyan;
+        width: 100%;
+        padding: 10px;
+        overflow: hidden;
+    }
+    nav ul li{
+        display: inline;
+        padding: 100px;
+        font-style: italic;
+        font-size: 25px;
+    }
+
+}
+@media screen and (min-width: 768px) {
+  body {
+    text-align: center;
+
+  }
+  img{
+      border-radius: 40%;
+  }
+  p{
+      text-align: center;
+      overflow: hidden;
+  }
+  nav{
+    position: fixed;
+    background-color:lightcyan;
+    width: 100%;
+    padding: 10px;
+    overflow: hidden;
+}
+nav ul li{
+    display: inline;
+    padding: 100px;
+    font-style: italic;
+    font-size: 25px;
+}
+
+} */
