@@ -47,8 +47,15 @@ footer{
 p{
     font-size: 25px;
     font-style: italic;
+    color: brown;
 }
 h2{
     text-align: center;
     font-size: 30px;
+}
+.my{
+color:lightskyblue;
+}
+.h{
+    color:yellowgreen;
 }
