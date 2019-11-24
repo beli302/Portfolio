@@ -1,5 +1,6 @@
  body{
-    background-image: url("https://bit.ly/2rkF65T")
+    background-image: url("https://bit.ly/2rkF65T");
+    text-align: center;
 }
 nav{
     position: fixed;
