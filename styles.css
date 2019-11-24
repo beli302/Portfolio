@@ -30,6 +30,7 @@ nav ul li{
     overflow: hidden;
 }
 .work ul li{
+    color:brown;
     width: 250px;
     height: 250px;
     list-style: none;
