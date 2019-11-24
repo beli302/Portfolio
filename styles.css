@@ -16,24 +16,27 @@ nav ul li{
     font-style: italic;
     font-size: 25px;
 }
-/* .work{
-    font-family: fantasy;
-    font-size: 25px;
-    padding: 10px;
-    margin-left: 6%;
- }
- .work>form>img{
-    padding-left: 10px;
-    
-} 
-.tropical {
+ .work {
+    width: 90%;
+    margin-left:5%;
+    padding-top: 50px;
+    padding-bottom: 100px
+}
+
+.work ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+.work ul li{
+    width: 250px;
+    height: 250px;
     list-style: none;
     overflow: hidden;
     object-fit: cover;
-    
+    font-size: 25px;
+} 
+footer{
+    text-align: center;
 }
-.tropical>ul{
-    display: flex;
-    flex-wrap: wrap;
-    overflow: hidden;
-    justify-content: space-evenly;  */
